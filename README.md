@@ -21,4 +21,12 @@ Right now, the notebook is not runnable, since multiple notebooks were consolida
 Further, code from a local IDE was copy/pasted without checking it's functionality. 
 For example, the scrappy cells can't work, since I copied only the spider, but nothing else.
 
+
+Further, I did not have the time to create a meaningful story around the code. 
+If you are evaluating my skills because of hiring:
+- I know how to create classes to remove repetitive code, but sometimes it's easier in Notebooks to work with repetitive cells (for debugging reasons). :) 
+- I know how to document code. :)
+- I know how to test code. :)
+
+  
 Thank you for reading this.
